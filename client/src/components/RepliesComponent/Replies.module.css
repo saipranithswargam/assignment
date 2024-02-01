@@ -1,0 +1,18 @@
+.authorDetails{
+    display: flex;
+    align-items: center;
+    gap:1rem;
+}
+.authorDetails p{
+    margin: 0;
+}
+.authorDetails img{
+    width: 2rem;
+    height: 2rem;
+}
+.outerBox{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+}
